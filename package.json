@@ -1,0 +1,33 @@
+{
+  "name": "js-html-browser",
+  "version": "0.4.1",
+  "description": "Blend server side JavaScript with HTML pages",
+  "keywords": [
+    "jshtml",
+    "js-html",
+    "javascript",
+    "ecmascript",
+    "html"
+  ],
+  "contributors": [
+    {
+      "name": "Bryan Way",
+      "email": "bryanwayb@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bryanwayb/js-html-browser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bryanwayb/js-html-browser/issues",
+    "email": "bryanwayb@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0",
+    "js-html-compiler": "^0.4.1"
+  }
+}
